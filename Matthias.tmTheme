@@ -74,7 +74,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E83703</string>
+				<string>#39946A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -376,6 +376,6 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.clouds_midnight</string>
+	<string>theme.dark.matthias</string>
 </dict>
 </plist>
