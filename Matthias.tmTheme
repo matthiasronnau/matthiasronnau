@@ -37,7 +37,7 @@
 				<key>fontStyle</key>
 				<string> italic</string>
 				<key>foreground</key>
-				<string>#E6DB74</string>
+				<string>#FFFFA7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -50,7 +50,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#00698F</string>
+				<string>#0A5074</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#01A9A3</string>
+				<string>#006B7F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#39946A</string>
+				<string>#3D8379</string>
 			</dict>
 		</dict>
 		<dict>
@@ -98,18 +98,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#39946A</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Keyword -&gt; Unit</string>
-			<key>scope</key>
-			<string>keyword.other.unit</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#366F1A</string>
+				<string>#3D8379</string>
 			</dict>
 		</dict>
 		<dict>
@@ -131,7 +120,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E92E2E</string>
+				<string>#D42729</string>
 			</dict>
 		</dict>
 	</array>
