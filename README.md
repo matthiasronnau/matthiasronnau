@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am recent graduate student of the University of California, Irvine, where I studied Business Analytics. Prior to this I majored in Statistics at the University of California, Berkeley, where I graduated in the Spring of 2020.
+I am a recent graduate student of the University of California, Irvine, where I studied Business Analytics. Prior to this I majored in Statistics at the University of California, Berkeley, where I graduated in the Spring of 2020.
 
 Currently, I am working on expanding my technical toolkit by learning web scraping so that I can better access necessary data for any given project. Keep a look out for exciting projects involving this and other data analysis on my GitHub.
 
