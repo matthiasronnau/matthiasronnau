@@ -4,7 +4,7 @@ I am recent graduate student of the University of California, Irvine, where I st
 
 Currently, I am working on expanding my technical toolkit by learning web scraping so that I can better access necessary data for any given project. Keep a look out for exciting projects involving this and other data analysis on my GitHub.
 
-I am actively searching for Data Analyst, Data Scientist, and Business Analyst roles in all fields. If you know of something that may be a good fit, please chec out my [resume](https://drive.google.com/file/d/12SwhG-R3WnT0Cqg56DAyNwSYjkzjWsPM/view?usp=sharing) and send me an email at matthias.ronnau@uci.edu. Thank you!
+I am actively searching for Data Analyst, Data Scientist, and Business Analyst roles in all fields. If you know of something that may be a good fit, please check out my [resume](https://drive.google.com/file/d/12SwhG-R3WnT0Cqg56DAyNwSYjkzjWsPM/view?usp=sharing) and send me an email at matthias.ronnau@uci.edu. Thank you!
 
 <!--
 **matthiasronnau/matthiasronnau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
