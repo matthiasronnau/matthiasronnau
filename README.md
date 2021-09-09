@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am currently a graduate student at the University of California, Irvine, where I am studying Business Analytics. Prior to this I majored in Statistics at the University of California, Berkeley, where I graduated in the Spring of 2020.
+I am recent graduate student of the University of California, Irvine, where I studied Business Analytics. Prior to this I majored in Statistics at the University of California, Berkeley, where I graduated in the Spring of 2020.
 
-Currently I serve as a Program Ambassador, which means I represent the MSBA Program to potential admits during webinars, at hackathons, and at other events! I am focused on a Data Analytics track within the MSBA Program, where I am expanding my technical skills, improving my ability to handle and understand data, and widening my business domain expertise. If you have any questions shoot me an email at matthias.ronnau@uci.edu!
+Currently, I am working on expanding my technical toolkit by learning web scraping so that I can better access necessary data for any given project. Keep a look out for exciting projects involving this and other data analysis on my GitHub.
+
+I am actively searching for Data Analyst, Data Scientist, and Business Analyst roles in all fields. If you know of something that may be a good fit, please chec out my [resume](https://drive.google.com/file/d/12SwhG-R3WnT0Cqg56DAyNwSYjkzjWsPM/view?usp=sharing) and send me an email at matthias.ronnau@uci.edu. Thank you!
 
 <!--
 **matthiasronnau/matthiasronnau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
