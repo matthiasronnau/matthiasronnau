@@ -1,4 +1,4 @@
-### Hi there :wave::skin-tone-3:
+### Hi there 👋
 
 I am recent graduate student of the University of California, Irvine, where I studied Business Analytics. Prior to this I majored in Statistics at the University of California, Berkeley, where I graduated in the Spring of 2020.
 
