@@ -1,14 +1,12 @@
-### Hi there 👋
+### Hello! My name is Matthias Ronnau, a Data Analyst from California.
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/matthias-ronnau/)
+[![Linkedin Badge](https://img.shields.io/badge/-Matthias Ronnau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthias-ronnau/)](https://www.linkedin.com/in/matthias-ronnau/)
 
 I currently work as a Data Analyst at Obagi I am a recent graduate student of the University of California, Irvine, where I studied Business Analytics. Prior to this I majored in Statistics at the University of California, Berkeley, where I graduated in the Spring of 2020.
 
-Currently, I am working on expanding my technical toolkit by learning web scraping so that I can better access necessary data for any given project. Keep a look out for exciting projects involving this and other data analysis on my GitHub.
-
-I am actively searching for Data Analyst, Data Scientist, and Business Analyst roles in all fields. If you know of something that may be a good fit, please check out my [resume](https://drive.google.com/file/d/12SwhG-R3WnT0Cqg56DAyNwSYjkzjWsPM/view?usp=sharing) and send me an email at matthias.ronnau@uci.edu. Thank you!
-
 <!--
+### Hi there 👋
+
 **matthiasronnau/matthiasronnau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
