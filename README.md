@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![LinkedIn](https://www.linkedin.com/in/matthias-ronnau/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/matthias-ronnau/)
 
 I currently work as a Data Analyst at Obagi I am a recent graduate student of the University of California, Irvine, where I studied Business Analytics. Prior to this I majored in Statistics at the University of California, Berkeley, where I graduated in the Spring of 2020.
 
