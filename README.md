@@ -8,9 +8,9 @@ My name is Matthias Ronnau, a Data Analyst from California. I currently work at 
 
 # 
 
-Prior to working at Obagi, I studied Statistics at the University of California, Berkeley, and Business Analytics at the University of California, Irvine. My studies primarily focused on linear regression, data visualization, machine learning, and time series analysis. Some past interesting projects I have completed involved me [!estimating and comparing crow densities in Rossmoor and Lucerne Valley, California](https://www.matthiasronnau.com/project/crow/) and [!predicting the price of a used car from Craigslist](https://www.matthiasronnau.com/project/used-cars/).
+Prior to working at Obagi, I studied Statistics at the University of California, Berkeley, and Business Analytics at the University of California, Irvine. My studies primarily focused on linear regression, data visualization, machine learning, and time series analysis. Some past interesting projects I have completed involved me [estimating and comparing crow densities in Rossmoor and Lucerne Valley, California](https://www.matthiasronnau.com/project/crow/) and [predicting the price of a used car from Craigslist](https://www.matthiasronnau.com/project/used-cars/).
 
-Along the way, I have found it useful to create [!my own R package](https://github.com/matthiasronnau/matthias) with some useful data manipulation functions.
+Along the way, I have found it useful to create [my own R package](https://github.com/matthiasronnau/matthias) with some useful data manipulation functions.
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=matthiasronnau&count_private=true&show_icons=true&include_all_commits=true)
